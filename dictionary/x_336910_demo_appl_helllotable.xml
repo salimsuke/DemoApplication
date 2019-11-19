@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HellloTable" max_length="40" name="x_336910_demo_appl_helllotable" type="collection">
+        <element label="FirstName" max_length="40" name="firstname" type="string"/>
+    </element>
+</database>
