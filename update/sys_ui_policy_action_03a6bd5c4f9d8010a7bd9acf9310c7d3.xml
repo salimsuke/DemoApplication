@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>test123</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 17:34:16</sys_created_on>
+        <sys_id>03a6bd5c4f9d8010a7bd9acf9310c7d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test123</sys_name>
+        <sys_package display_value="Demo Application" source="x_336910_demo_appl">fe9a65144f5d8010a7bd9acf9310c7e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Application">fe9a65144f5d8010a7bd9acf9310c7e1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_03a6bd5c4f9d8010a7bd9acf9310c7d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 17:34:16</sys_updated_on>
+        <table>x_336910_demo_appl_secondtable</table>
+        <ui_policy display_value="test">c4963d5c4f9d8010a7bd9acf9310c716</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
