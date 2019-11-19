@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="SecondTable" language="en" table="x_336910_demo_appl_secondtable">
+    <sys_documentation element="middlename" label="middleName" language="en" table="x_336910_demo_appl_secondtable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>middlename</element>
             <help/>
             <hint/>
-            <label>SecondTable</label>
+            <label>middleName</label>
             <language>en</language>
             <name>x_336910_demo_appl_secondtable</name>
-            <plural>SecondTables</plural>
+            <plural>middleNames</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-19 16:52:16</sys_created_on>
-            <sys_id>78c1f5904f9d8010a7bd9acf9310c7fc</sys_id>
+            <sys_created_on>2019-11-19 17:13:34</sys_created_on>
+            <sys_id>0502f9d04f9d8010a7bd9acf9310c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>SecondTable</sys_name>
+            <sys_name>middleName</sys_name>
             <sys_package display_value="Demo Application" source="x_336910_demo_appl">fe9a65144f5d8010a7bd9acf9310c7e1</sys_package>
             <sys_policy/>
             <sys_scope display_value="Demo Application">fe9a65144f5d8010a7bd9acf9310c7e1</sys_scope>
-            <sys_update_name>sys_documentation_x_336910_demo_appl_secondtable__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_336910_demo_appl_secondtable_middlename_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-19 16:52:16</sys_updated_on>
+            <sys_updated_on>2019-11-19 17:13:34</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

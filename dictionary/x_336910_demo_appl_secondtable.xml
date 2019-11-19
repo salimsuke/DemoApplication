@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="SecondTable" max_length="40" name="x_336910_demo_appl_secondtable" type="collection">
-        <element label="SecondField" max_length="40" name="secondfield" type="string"/>
+        <element label="middleName" max_length="40" name="middlename" type="string"/>
+        <element label="SecondField" max_length="100" name="secondfield" type="string"/>
     </element>
 </database>
