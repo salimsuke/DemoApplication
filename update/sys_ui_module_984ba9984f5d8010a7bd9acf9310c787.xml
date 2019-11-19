@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="HellloTable">5c4ba9984f5d8010a7bd9acf9310c785</application>
+        <filter/>
+        <name>HellloTables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_336910_demo_appl.helllotable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-19 16:44:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>984ba9984f5d8010a7bd9acf9310c787</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HellloTables</sys_name>
+        <sys_package display_value="Demo Application" source="x_336910_demo_appl">fe9a65144f5d8010a7bd9acf9310c7e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Application">fe9a65144f5d8010a7bd9acf9310c7e1</sys_scope>
+        <sys_update_name>sys_ui_module_984ba9984f5d8010a7bd9acf9310c787</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-19 16:44:01</sys_updated_on>
+        <table>x_336910_demo_appl_helllotable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
